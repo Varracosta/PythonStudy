@@ -1,6 +1,12 @@
-# PythonStudy
 Just practicing Python here while learning <br>
+<br>
 <img alt="GIF" src="https://i.giphy.com/media/l2Sq13J1OECQS5fTW/giphy.webp" />
+<br>
+
+**Study Resourses:**<br>
+- <a href="https://www.python.org/doc/">Python Documentation</a>
+- <a href="https://www.youtube.com/c/Coreyms"> Corey Schafer Python Courses</a>
+- <a href="https://exercism.org/tracks/python">Exercism</a>
 
 <!--
 **Projects:**<br>
