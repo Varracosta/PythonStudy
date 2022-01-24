@@ -9,8 +9,7 @@ Just practicing Python here while learning <br>
 - <a href="https://exercism.org/tracks/python">Exercism</a>
 - <a href="https://www.youtube.com/c/TechWithTim/featured">Tech with Tim </a>
 
-<!--
+
 **Projects:**<br>
-1) <a href=""> QR Code encoder</a><br>
+1) <a href="https://github.com/Varracosta/PythonStudy/blob/master/Projects/qrencoder.py"> QR Code encoder</a><br>
     <i>Using qrcode library encodes any info taken from user</i>
--->
