@@ -7,6 +7,7 @@ Just practicing Python here while learning <br>
 - <a href="https://www.python.org/doc/">Python Documentation</a>
 - <a href="https://www.youtube.com/c/Coreyms"> Corey Schafer Python Courses</a>
 - <a href="https://exercism.org/tracks/python">Exercism</a>
+- <a href="https://www.youtube.com/c/TechWithTim/featured">Tech with Tim </a>
 
 <!--
 **Projects:**<br>
